@@ -53,7 +53,7 @@ footer {
   grid-column-gap: 8px;
   position: absolute;
   right: 3vw;
-  bottom: 15.5vh;
+  bottom: 16vh;
   color: black;
   font-size: 1rem;
   font-weight: 600;
@@ -102,7 +102,7 @@ footer {
 
 @keyframes slidein {
     0% {
-        transform: translatex(-5rem) translatey(300%)
+        transform: translatex(-5rem) translatey(350%)
     }
     100% {
         transform: translatex(25rem) translatey(-400%);
